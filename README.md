@@ -15,3 +15,8 @@ go run main.go
 ```
 
 Le serveur sera accessible sur http://localhost:8080
+
+
+exo 6 : 
+Git reset s'utilise en locale alors que git revert sur le depôt distant
+Git reset supprime directement les commits alors que git revert crée un nouveau commit pour annuler les modifications.
